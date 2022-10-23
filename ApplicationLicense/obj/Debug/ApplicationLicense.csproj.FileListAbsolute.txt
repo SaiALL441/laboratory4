@@ -1,0 +1,8 @@
+D:\2 курс\ООП\ООП\lab4\ApplicationLicense\ApplicationLicense\obj\Debug\ApplicationLicense.csproj.AssemblyReference.cache
+D:\2 курс\ООП\ООП\lab4\ApplicationLicense\ApplicationLicense\obj\Debug\ApplicationLicense.csproj.SuggestedBindingRedirects.cache
+D:\2 курс\ООП\ООП\lab4\ApplicationLicense\ApplicationLicense\obj\Debug\ApplicationLicense.csproj.CoreCompileInputs.cache
+D:\2 курс\ООП\ООП\lab4\ApplicationLicense\ApplicationLicense\bin\Debug\ApplicationLicense.exe.config
+D:\2 курс\ООП\ООП\lab4\ApplicationLicense\ApplicationLicense\bin\Debug\ApplicationLicense.exe
+D:\2 курс\ООП\ООП\lab4\ApplicationLicense\ApplicationLicense\bin\Debug\ApplicationLicense.pdb
+D:\2 курс\ООП\ООП\lab4\ApplicationLicense\ApplicationLicense\obj\Debug\ApplicationLicense.exe
+D:\2 курс\ООП\ООП\lab4\ApplicationLicense\ApplicationLicense\obj\Debug\ApplicationLicense.pdb
